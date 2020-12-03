@@ -1,0 +1,5 @@
+{
+  "targetProtocol": "docker:",
+  "dockerImageId": "sha256:35baef133cdc2b7f7a2332881e4153fc54aea9297e998bb22f748cd428fa9952",
+  "targetHardware": "armv7hf"
+}
